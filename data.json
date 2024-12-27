@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "brand": "Mercedes-Benz",
+    "model": "C-180",
+    "km": 123096,
+    "date": "27/12/2024",
+    "category": "Otomobil"
+  },
+  {
+    "id": 2,
+    "brand": "Audi",
+    "model": "A3",
+    "km": 40567,
+    "date": "12/01/2023",
+    "category": "Otomobil"
+  },
+  {
+    "id": 3,
+    "brand": "Tofaş",
+    "model": "Şahin",
+    "km": 99999,
+    "date": "17/04/2024",
+    "category": "Otomobil"
+  },
+  {
+    "id": 4,
+    "brand": "Mercedes-Benz",
+    "model": "G-Serisi",
+    "km": 125983,
+    "date": "22/12/2024",
+    "category": "Arazi/Suv"
+  },
+  {
+    "id": 5,
+    "brand": "Dacia",
+    "model": "Duster",
+    "km": 73643,
+    "date": "10/12/2024",
+    "category": "Arazi/Suv"
+  },
+  {
+    "id": 5,
+    "brand": "Dacia",
+    "model": "Duster",
+    "km": 73643,
+    "date": "10/12/2024",
+    "category": "Arazi/Suv"
+  }
+]
